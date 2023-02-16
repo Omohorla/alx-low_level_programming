@@ -1,7 +1,6 @@
 #include <stdio.h>
-
 /**
- * main - main block
+ * main - print a string followed by a new line
  * Return: 0
  */
 int main(void)
